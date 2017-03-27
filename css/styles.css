@@ -811,3 +811,7 @@ footer .copyright {
     padding-top: 10px;
     margin-bottom: 50px;
 }
+
+.features .phone-image img {
+    height: 100%;
+}
